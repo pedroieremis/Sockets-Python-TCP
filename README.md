@@ -1,2 +1,3 @@
 # Sockets_Python_TCP
-Repositório de programas em Python usando protocolo TCP/IP
+Programas usando protocolo TCP/IP
+Mesmo usando o TCP, estará sendo feito o envio dos dados do arquivo requisitado de forma segmentada

@@ -1,3 +1,3 @@
-# Sockets_Python_TCP
-Programas usando protocolo TCP/IP
-Mesmo usando o TCP, estará sendo feito o envio dos dados do arquivo requisitado de forma segmentada
+## Sockets-Python-TCP
+Programas para Redes em Python usando o protocolo TCP/IP.
+Programas Desenvolvidos durante as Disciplinas de Programação/Programação para Redes, na Graduação em Redes de Computadores pelo IFRN - Central.
